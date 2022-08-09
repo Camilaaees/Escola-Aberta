@@ -1,0 +1,160 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titulo h1{
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.buttonheader {
+    height: 80px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.buttonheader img {
+    height: 60px;
+    padding: 10px;
+}
+
+.buttonheader img:hover {
+    border-bottom: 5px solid #066163;
+}
+
+.banner {
+    width: 100%;
+    margin-top: 10px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+
+#loguinho {
+    height: 100px;
+    margin-right: 10px;
+}
+
+.principal {
+    padding: 30px;
+    margin: 7px;
+    height: auto;
+    border-radius: 1em;
+}
+
+.titulo {
+    padding-right: 150px;
+    text-transform: uppercase;
+}
+
+.principal p {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    clear: left;
+    border-bottom: 3px solid #066163;
+    padding: 20px;
+}
+
+p {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#missao {
+    font-size: 20px;
+    font-style: italic;
+}
+
+em strong {
+    color: #066163;
+    font-weight: bold;
+}
+
+.principal strong {
+    font-weight: bold;
+    color: #066163;
+}
+
+.utensilios {
+    width: 124px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.titulo-centralizado {
+    margin-bottom: 30px;
+}
+
+.mapa p {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.mapa {
+    text-align: center;
+}
+
+.item {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.itens li {
+    margin-bottom: 5px;
+    padding: 18px 130px;
+    border-bottom: 1px solid #066163;
+}
+
+.itens {
+    padding: 10px;
+    background: #CCCCCC;
+    border-radius: 1em;
+    margin-right: 15px;
+}
+
+.ite:first-child {
+    font-weight: bold;
+}
+
+.imagembaneficios {
+    width: 41%;
+    margin-left: 15px;
+    border-radius: 1em;
+    box-shadow: 10px 10px 10px 2.5px #066163;
+}
+
+.video {
+    text-align: center;
+    margin-top: 80px;
+}
+
+footer {
+    background-color: #BBBBBB;
+    margin-top: 50px;
+	text-align: center;
+	padding: 40px 0;
+}
+
+.copyright {
+	color: black;
+	font-size: 15px;
+	margin: 20px 0 0;
+}
+
+.logo__rodape {
+    width: 100px;
+}
